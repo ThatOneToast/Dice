@@ -1,0 +1,6 @@
+[submodule "dice-shared"]
+	path = dice-shared
+	url = https://github.com/ThatOneToast/dice-shared
+[submodule "dice-backend"]
+	path = dice-backend
+	url = https://github.com/ThatOneToast/dice-backend
